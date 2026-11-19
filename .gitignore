@@ -1,0 +1,14 @@
+.gradle/
+**/build/
+local.properties
+*.iml
+.idea/
+*.jks
+*.keystore
+secrets.properties
+google-services.json
+.gradle-home/
+.android-home/
+.make_report.py
+documentation/qa/
+.kotlin/

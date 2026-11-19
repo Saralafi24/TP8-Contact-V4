@@ -1,0 +1,3 @@
+# Copier vers local.properties (ce fichier n'est pas versionné)
+sdk.dir=C\:\\Users\\VOTRE_NOM\\AppData\\Local\\Android\\Sdk
+MAPS_API_KEY=REMPLACER_PAR_VOTRE_CLE

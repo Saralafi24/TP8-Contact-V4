@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Contacts" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#315C8A</item>
+        <item name="colorPrimaryVariant">#183B61</item>
+        <item name="colorSecondary">#D97845</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+</resources>
